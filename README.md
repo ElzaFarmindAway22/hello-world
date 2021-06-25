@@ -1,2 +1,5 @@
 # hello-world
-my furst commit
+
+Hi, I'm Elza
+
+my first commit
